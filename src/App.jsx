@@ -1,18 +1,19 @@
 import './App.css'
 import { Header } from './Header.jsx'
 import { Tabs } from './Tabs.jsx'
-import { Comparison } from './Comparison.jsx'
-import { Filter } from "./Filter"
-import { ProductCard } from './ProductCard.jsx'
+import { TabSelect } from './TabSelect.jsx'
+import { useState } from 'react'
 
 
 function App() {
 
+  const [selectedTab, setSelectedTab] = useState('Article')
+
   return (
     <>
       <Header />
-      <Tabs />
-      <Comparison />
+      <Tabs selectedTab={selectedTab} setSelectedTab={setSelectedTab} />
+      <TabSelect selectedTab={selectedTab} />
     </>
   )
 }
