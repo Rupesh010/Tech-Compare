@@ -69,16 +69,35 @@
 .filter{
   width: 100%;
   padding: 20px;
-  font-size: smaller;
 }
 
-.filter button{
+.filter-button{
+  font-size: x-small;
+  font-weight: 100;
   border: none;
   background-color: #f0f0f0;
-  padding: 0.3rem 0.5rem;
-  border-radius: 0.5rem;
+  padding: 0.2rem 0.3rem;
+  cursor: pointer;
+  border-radius: 0.2rem;
   margin: 5px 5px;
 }
+
+.filter-button:hover {
+  background-color: #a9ccee;
+  transform: translate(0);
+}
+
+.filter-selected {
+  color: #60A5FA;
+}
+
+.filter-selected::after {
+  transform: translateX(-50%);
+  background: var(--color-link);
+  border-radius: 0.5px;
+  animation: widen 250ms ease-in-out forwards;
+}
+
 
 
 

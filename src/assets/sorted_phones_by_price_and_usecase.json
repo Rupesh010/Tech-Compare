@@ -1,0 +1,1212 @@
+{
+  ">40000": {
+    "Flagship": [
+      {
+        "title": "OnePlus 13",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "OnePlus 13 Variant 11",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "OnePlus 13 Variant 21",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "OnePlus 13 Variant 31",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "OnePlus 13 Variant 41",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "OnePlus 13 Variant 51",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "OnePlus 13 Variant 61",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "OnePlus 13 Variant 71",
+        "price": "₹69,999",
+        "display": "6.82-inch QHD+ LTPO AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Asus ROG Phone 9",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Asus ROG Phone 9 Variant 13",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro Variant 17",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Asus ROG Phone 9 Variant 23",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro Variant 27",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Asus ROG Phone 9 Variant 33",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro Variant 37",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Asus ROG Phone 9 Variant 43",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro Variant 47",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Asus ROG Phone 9 Variant 53",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro Variant 57",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Asus ROG Phone 9 Variant 63",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro Variant 67",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Asus ROG Phone 9 Variant 73",
+        "price": "₹90,000",
+        "display": "6.78-inch 2K OLED, 120Hz",
+        "battery": "5500mAh",
+        "camera": {
+          "rear": "50MP + 13MP + 5MP",
+          "front": "24MP"
+        },
+        "ram": "16GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Realme GT Neo 7 Pro Variant 77",
+        "price": "₹45,000",
+        "display": "6.74-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Gaming"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Google Pixel 9A",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3)",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Google Pixel 9A Variant 14",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3) Variant 16",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Google Pixel 9A Variant 24",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3) Variant 26",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Google Pixel 9A Variant 34",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3) Variant 36",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Google Pixel 9A Variant 44",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3) Variant 46",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Google Pixel 9A Variant 54",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3) Variant 56",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Google Pixel 9A Variant 64",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3) Variant 66",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Google Pixel 9A Variant 74",
+        "price": "₹43,999",
+        "display": "6.3-inch FHD+ OLED, 120Hz",
+        "battery": "5100mAh",
+        "camera": {
+          "rear": "48MP + 13MP",
+          "front": "13MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Google Tensor G4",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Nothing Phone (3) Variant 76",
+        "price": "₹45,990",
+        "display": "6.67-inch FHD+ AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7s Gen3",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Samsung Galaxy S25 Ultra",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra Variant 15",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+ Variant 18",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra Variant 20",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra Variant 25",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+ Variant 28",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra Variant 30",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra Variant 35",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+ Variant 38",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra Variant 40",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra Variant 45",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+ Variant 48",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra Variant 50",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra Variant 55",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+ Variant 58",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra Variant 60",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra Variant 65",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+ Variant 68",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra Variant 70",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra Variant 75",
+        "price": "₹1,29,999",
+        "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "200MP + 50MP + 10MP + 12MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "1TB",
+        "processor": "Snapdragon 8 Elite",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Vivo X100 Pro+ Variant 78",
+        "price": "₹95,000",
+        "display": "6.78-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Xiaomi Mi 15 Ultra Variant 80",
+        "price": "₹70,000",
+        "display": "6.73-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 50MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Camera"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Motorola Edge 50 Ultra",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Motorola Edge 50 Ultra Variant 19",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Motorola Edge 50 Ultra Variant 29",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Motorola Edge 50 Ultra Variant 39",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Motorola Edge 50 Ultra Variant 49",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Motorola Edge 50 Ultra Variant 59",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Motorola Edge 50 Ultra Variant 69",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Motorola Edge 50 Ultra Variant 79",
+        "price": "₹85,000",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 50MP + 12MP",
+          "front": "60MP"
+        },
+        "ram": "12GB",
+        "storage": "512GB",
+        "processor": "Snapdragon 8 Gen 3",
+        "use_case": "Performance"
+      }
+    ]
+  },
+  "25000-29999": {
+    "Camera": [
+      {
+        "title": "Realme 14 Pro+ 5G",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Realme 14 Pro+ 5G Variant 12",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Realme 14 Pro+ 5G Variant 22",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Realme 14 Pro+ 5G Variant 32",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Realme 14 Pro+ 5G Variant 42",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Realme 14 Pro+ 5G Variant 52",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Realme 14 Pro+ 5G Variant 62",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Realme 14 Pro+ 5G Variant 72",
+        "price": "₹27,999",
+        "display": "6.83-inch (1272x2800)",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP + 50MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200+",
+        "use_case": "Camera"
+      }
+    ]
+  },
+  "<10999": {
+    "General Purpose": [
+      {
+        "title": "Redmi 13C",
+        "price": "₹8,999",
+        "display": "6.74-inch HD+ IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "5MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "MediaTek Helio G85",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Realme Narzo N53",
+        "price": "₹7,999",
+        "display": "6.74-inch HD+ IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Unisoc T612",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Samsung Galaxy M04",
+        "price": "₹7,499",
+        "display": "6.5-inch HD+ PLS LCD",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "13MP + 2MP",
+          "front": "5MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "MediaTek Helio P35",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Infinix Smart 8",
+        "price": "₹6,999",
+        "display": "6.6-inch HD+ IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "13MP + AI Lens",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Unisoc T606",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Lava Blaze 5G",
+        "price": "₹9,999",
+        "display": "6.5-inch HD+ IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + AI Lens",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 6020",
+        "use_case": "General Purpose"
+      }
+    ]
+  }
+}

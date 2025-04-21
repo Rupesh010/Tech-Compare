@@ -1,0 +1,3250 @@
+{
+  "<10999": {
+    "Flagship": [
+      {
+        "title": "Hart PLC Republican2",
+        "price": "₹7286",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=business",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Roberts Inc With9",
+        "price": "₹7524",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=away",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Vargas, Jones and Chavez Full1",
+        "price": "₹9860",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=heart",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Villarreal Inc Service8",
+        "price": "₹10695",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=tell",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Powell and Sons Water2",
+        "price": "₹8258",
+        "display": "6.1-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=figure",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Brown LLC His1",
+        "price": "₹8761",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=step",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Mcpherson Group Do9",
+        "price": "₹8712",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=someone",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Mitchell PLC Much1",
+        "price": "₹9372",
+        "display": "6.5-inch OLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=step",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Mitchell LLC Nice9",
+        "price": "₹9699",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=experience",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Garcia-Kaufman Section5",
+        "price": "₹10555",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=vote",
+        "use_case": "Gaming"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Bryant-Garza Sense1",
+        "price": "₹7378",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=new",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Beltran and Sons Light2",
+        "price": "₹7793",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=put",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Pena, Medina and Turner Success1",
+        "price": "₹10423",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=his",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Thomas-Norris Worry7",
+        "price": "₹10421",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=detail",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Glover-Conley Even8",
+        "price": "₹7971",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=media",
+        "use_case": "Camera"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Avery-Rodriguez All2",
+        "price": "₹7438",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=ball",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Cook-Wilcox Suddenly2",
+        "price": "₹7789",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=what",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Larsen-Hudson Billion4",
+        "price": "₹10256",
+        "display": "6.5-inch IPS LCD, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=three",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Russo Ltd Try3",
+        "price": "₹9669",
+        "display": "6.7-inch IPS LCD, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=and",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Rojas-Taylor Black2",
+        "price": "₹8536",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=thing",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Young, Wright and Cole Yes9",
+        "price": "₹7838",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=issue",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Hampton-Stanley Pm10",
+        "price": "₹8909",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=major",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Ramirez Inc Hand9",
+        "price": "₹10485",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=surface",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Mcgrath, Graham and Murray Less1",
+        "price": "₹10239",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=weight",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Campbell Ltd That7",
+        "price": "₹9374",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=move",
+        "use_case": "Performance"
+      }
+    ],
+    "General Purpose": [
+      {
+        "title": "Anderson Group Per7",
+        "price": "₹7828",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=although",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Thompson-Johnston Agree3",
+        "price": "₹8829",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=sign",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Sanders, Hancock and Jenkins News10",
+        "price": "₹8858",
+        "display": "6.7-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=carry",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Ibarra, Crosby and Santiago Head4",
+        "price": "₹9215",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=summer",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Terry LLC Risk2",
+        "price": "₹10923",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=business",
+        "use_case": "General Purpose"
+      }
+    ]
+  },
+  "11000-14999": {
+    "Flagship": [
+      {
+        "title": "Hunt LLC At6",
+        "price": "₹13624",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=together",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Flores, Gonzalez and Christensen Scientist3",
+        "price": "₹11501",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=yet",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Hill PLC Cover7",
+        "price": "₹13900",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=several",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Nguyen, Gilbert and Anderson Computer1",
+        "price": "₹12362",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=into",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Murray and Sons Able10",
+        "price": "₹12280",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=describe",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Martinez, Landry and Barrett Two2",
+        "price": "₹12854",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=media",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Rodgers-Sandoval Benefit1",
+        "price": "₹12440",
+        "display": "6.1-inch AMOLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=fear",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Woods, Thomas and Wells Short7",
+        "price": "₹12411",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=discover",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Moran Ltd Future8",
+        "price": "₹12174",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=way",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Ryan-Spencer Describe2",
+        "price": "₹13280",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=city",
+        "use_case": "Gaming"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Davis LLC Eight4",
+        "price": "₹13613",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=clearly",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Crawford, Gibson and Clark Worker6",
+        "price": "₹12506",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=specific",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Harris-Mills Discussion10",
+        "price": "₹12631",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=argue",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Green Ltd Participant5",
+        "price": "₹14494",
+        "display": "6.1-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=rock",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Gould Inc Professional2",
+        "price": "₹12829",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=true",
+        "use_case": "Camera"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Galloway-York Treatment2",
+        "price": "₹13900",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=service",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Miller Group End4",
+        "price": "₹11745",
+        "display": "6.7-inch AMOLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=partner",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Acevedo-Cruz Call5",
+        "price": "₹12085",
+        "display": "6.7-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=follow",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Hill LLC Image1",
+        "price": "₹13821",
+        "display": "6.7-inch OLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=land",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Dunlap-James Model4",
+        "price": "₹13075",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=account",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Anderson-Gutierrez Choose9",
+        "price": "₹13268",
+        "display": "6.5-inch OLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=civil",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Barajas-Lee Firm9",
+        "price": "₹13240",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=shake",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Griffith LLC Yeah1",
+        "price": "₹14204",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=kitchen",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Hampton, Li and Williams Republican7",
+        "price": "₹12369",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=describe",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Gray, Woods and Lopez Wrong9",
+        "price": "₹11601",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=nothing",
+        "use_case": "Performance"
+      }
+    ],
+    "General Purpose": [
+      {
+        "title": "West PLC Start9",
+        "price": "₹14621",
+        "display": "6.5-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=cell",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Perez, Molina and Wood Worker7",
+        "price": "₹11484",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=benefit",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Fitzgerald-Dillon Low6",
+        "price": "₹12955",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=these",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Harrison-Wallace Together5",
+        "price": "₹12004",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=attention",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Williams Ltd Start7",
+        "price": "₹12014",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=marriage",
+        "use_case": "General Purpose"
+      }
+    ]
+  },
+  "15000-19999": {
+    "Flagship": [
+      {
+        "title": "Mendoza and Sons Man9",
+        "price": "₹18492",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=agency",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Skinner-Smith Respond2",
+        "price": "₹18829",
+        "display": "6.5-inch AMOLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=art",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Harrison, Nelson and Quinn Board3",
+        "price": "₹16880",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=quickly",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Lee Group Reflect5",
+        "price": "₹15033",
+        "display": "6.1-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=process",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Thompson-Williams Interesting4",
+        "price": "₹15571",
+        "display": "6.5-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=until",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Velazquez-Blankenship Later9",
+        "price": "₹17974",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=so",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Thomas-Vargas Several10",
+        "price": "₹17895",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=issue",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Lawrence Group Wear8",
+        "price": "₹16401",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=interview",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Rojas, Garcia and Powell Simple8",
+        "price": "₹19427",
+        "display": "6.5-inch OLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=both",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Wood Group Fast3",
+        "price": "₹15767",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=back",
+        "use_case": "Gaming"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Cole-Lewis Concern3",
+        "price": "₹18105",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=manage",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Khan-Holmes Rule1",
+        "price": "₹16968",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=necessary",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Young and Sons Possible10",
+        "price": "₹15138",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=technology",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Roy, Jones and Mason This8",
+        "price": "₹15956",
+        "display": "6.5-inch AMOLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=time",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Downs-Boone Form4",
+        "price": "₹16243",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=in",
+        "use_case": "Camera"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Ferguson Inc Site9",
+        "price": "₹19678",
+        "display": "6.1-inch OLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=if",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Gamble, Curtis and Morris Necessary6",
+        "price": "₹15623",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=interview",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Howell Ltd Above1",
+        "price": "₹17003",
+        "display": "6.5-inch AMOLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=lay",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Watson and Sons Although3",
+        "price": "₹18003",
+        "display": "6.1-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=loss",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Roberts and Sons Our2",
+        "price": "₹18291",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=history",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Carson LLC Court3",
+        "price": "₹15824",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=father",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Cherry, Thomas and Wang Pay3",
+        "price": "₹19114",
+        "display": "6.7-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=education",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Sampson-Figueroa Arrive4",
+        "price": "₹16716",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=believe",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Day-Thomas Lay5",
+        "price": "₹18090",
+        "display": "6.1-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=half",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Gonzalez, Martinez and Lewis My10",
+        "price": "₹15743",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=since",
+        "use_case": "Performance"
+      }
+    ],
+    "General Purpose": [
+      {
+        "title": "Stewart, Powell and Wright Member9",
+        "price": "₹15429",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=expect",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Fernandez, Ward and Vargas But2",
+        "price": "₹19076",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=mother",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Davidson, Martin and Robertson Whether5",
+        "price": "₹19330",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=season",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Brooks, Williams and Lewis Point2",
+        "price": "₹16158",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=eat",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Carter-Fowler Enjoy7",
+        "price": "₹17227",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=impact",
+        "use_case": "General Purpose"
+      }
+    ]
+  },
+  "20000-24999": {
+    "Flagship": [
+      {
+        "title": "Espinoza-Underwood Society6",
+        "price": "₹20303",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=toward",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Vasquez and Sons Not4",
+        "price": "₹20530",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=care",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Vargas-Lane Alone9",
+        "price": "₹24408",
+        "display": "6.5-inch AMOLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=game",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Gonzalez-Lawrence Official3",
+        "price": "₹24787",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=development",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Lee, Rivera and Shaw Student9",
+        "price": "₹21583",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=force",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Jacobson, Adams and Brown Gun1",
+        "price": "₹23976",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=whatever",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Johnson Group Most2",
+        "price": "₹21284",
+        "display": "6.1-inch OLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=carry",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Fernandez, Clark and Reed Machine3",
+        "price": "₹20725",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=employee",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Diaz, Terry and Walsh Executive2",
+        "price": "₹21604",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=other",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Williams, Martinez and Martin Find4",
+        "price": "₹21859",
+        "display": "6.1-inch AMOLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=despite",
+        "use_case": "Gaming"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Brewer LLC Appear5",
+        "price": "₹21638",
+        "display": "6.7-inch AMOLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=thus",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Wood-Richards Side10",
+        "price": "₹23527",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=provide",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Contreras-Luna Clear7",
+        "price": "₹24229",
+        "display": "6.5-inch OLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=collection",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Anderson, Pena and Roy Protect8",
+        "price": "₹24646",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=example",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Lewis-Morales Happy10",
+        "price": "₹22361",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=even",
+        "use_case": "Camera"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Greer, Woods and Brown Interest2",
+        "price": "₹24477",
+        "display": "6.5-inch IPS LCD, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=painting",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Wright Group Involve4",
+        "price": "₹20237",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=design",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Schaefer, Munoz and Figueroa Point10",
+        "price": "₹20440",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=trial",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Sims-Manning Economy2",
+        "price": "₹23790",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=fear",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "White-Clements Reveal1",
+        "price": "₹22826",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=successful",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Thompson-Harris Employee2",
+        "price": "₹21568",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=human",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Frost Inc Than2",
+        "price": "₹23881",
+        "display": "6.1-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=fact",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Alexander-Zimmerman Paper4",
+        "price": "₹20942",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=than",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Bradley-West Paper2",
+        "price": "₹23967",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=win",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Spencer-Knight Time5",
+        "price": "₹24991",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=happy",
+        "use_case": "Performance"
+      }
+    ],
+    "General Purpose": [
+      {
+        "title": "Anderson Group Decide4",
+        "price": "₹23473",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=while",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Brown and Sons Occur8",
+        "price": "₹22790",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=can",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Richardson and Sons Total10",
+        "price": "₹24794",
+        "display": "6.1-inch AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=education",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Rivera, White and Goodwin Down5",
+        "price": "₹21010",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=prepare",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Butler, Ballard and Rush Produce1",
+        "price": "₹20339",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=kind",
+        "use_case": "General Purpose"
+      }
+    ]
+  },
+  "25000-29999": {
+    "Flagship": [
+      {
+        "title": "Holland Inc Find7",
+        "price": "₹26842",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=strong",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Fleming Inc Prevent7",
+        "price": "₹29473",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=pressure",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Wright PLC Western8",
+        "price": "₹25057",
+        "display": "6.1-inch AMOLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=here",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Soto Ltd Law3",
+        "price": "₹29526",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=hope",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Meyer, Cooper and Morris Across9",
+        "price": "₹25792",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=recognize",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Burgess, Finley and Jones Foot2",
+        "price": "₹29072",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=citizen",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Alvarez-Patterson Decade5",
+        "price": "₹27280",
+        "display": "6.1-inch AMOLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=car",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Clark, Simpson and Brooks Seek6",
+        "price": "₹28576",
+        "display": "6.5-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=type",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Brown-Sosa Significant3",
+        "price": "₹26397",
+        "display": "6.7-inch AMOLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=must",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Rodriguez PLC Enter5",
+        "price": "₹25212",
+        "display": "6.1-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=peace",
+        "use_case": "Gaming"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Aguilar-Ross By4",
+        "price": "₹28777",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=nation",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Nelson Group Dog8",
+        "price": "₹29397",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=section",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Blake-Chandler Born6",
+        "price": "₹25718",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=PM",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Rodriguez, Brown and Medina Green4",
+        "price": "₹25810",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=forward",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Kane-Torres Together1",
+        "price": "₹26464",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=up",
+        "use_case": "Camera"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Mcfarland-Hunter Probably10",
+        "price": "₹25910",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=until",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Mckenzie, Smith and Romero Able1",
+        "price": "₹26019",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=impact",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Frederick-Maldonado Range8",
+        "price": "₹25247",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=half",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Taylor-Walker Level3",
+        "price": "₹28178",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=ability",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Davis, Blevins and Williams Current6",
+        "price": "₹25570",
+        "display": "6.1-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=author",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Medina-Velazquez Model9",
+        "price": "₹28510",
+        "display": "6.1-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=argue",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Roberts-Dyer Under6",
+        "price": "₹29969",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=economy",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Bennett-Taylor Majority2",
+        "price": "₹29728",
+        "display": "6.5-inch AMOLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=thousand",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Hooper, Johnson and Jordan Out1",
+        "price": "₹25905",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=decide",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Wolf-Washington Send5",
+        "price": "₹25772",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=also",
+        "use_case": "Performance"
+      }
+    ],
+    "General Purpose": [
+      {
+        "title": "Garcia, Wilson and Stanley Leader6",
+        "price": "₹29029",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=foot",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Patel, Manning and Stewart Almost5",
+        "price": "₹25293",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=on",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Huber-Hill Still2",
+        "price": "₹27164",
+        "display": "6.1-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=maybe",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Curtis Inc Idea6",
+        "price": "₹29109",
+        "display": "6.5-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=hour",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Martinez-Doyle List4",
+        "price": "₹28180",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=physical",
+        "use_case": "General Purpose"
+      }
+    ]
+  },
+  "30000-40000": {
+    "Flagship": [
+      {
+        "title": "Brown-Soto Mean7",
+        "price": "₹39829",
+        "display": "6.7-inch AMOLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=probably",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Garcia-Hernandez Mouth8",
+        "price": "₹32638",
+        "display": "6.7-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=identify",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Bishop, Chambers and Contreras Fact8",
+        "price": "₹39292",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=best",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Smith, Anderson and Maldonado Letter5",
+        "price": "₹38653",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=want",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Clements LLC Less8",
+        "price": "₹38751",
+        "display": "6.1-inch AMOLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=structure",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Webb Inc Fine7",
+        "price": "₹35135",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=discussion",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Craig, Collier and Martin List7",
+        "price": "₹32299",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=compare",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Rosario, Baker and Bishop Group5",
+        "price": "₹35095",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=page",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Carter, Jenkins and Buck Fly5",
+        "price": "₹39149",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=form",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Simmons, Johnson and Velasquez Eye10",
+        "price": "₹32377",
+        "display": "6.1-inch AMOLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=conference",
+        "use_case": "Gaming"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Harris, Little and Parker Item2",
+        "price": "₹38405",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=although",
+        "use_case": "Camera"
+      },
+      {
+        "title": "King, Montoya and Peters Little4",
+        "price": "₹37507",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=yourself",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Waters PLC Girl8",
+        "price": "₹39302",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=although",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Whitney, Williams and Daniels Us1",
+        "price": "₹34737",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=glass",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Rice Ltd Institution7",
+        "price": "₹33075",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=say",
+        "use_case": "Camera"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Davila-Garza Indeed3",
+        "price": "₹33195",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=organization",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Saunders PLC Report8",
+        "price": "₹38880",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=better",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Brooks-Webb Ever9",
+        "price": "₹37690",
+        "display": "6.7-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=whose",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Schultz and Sons Will2",
+        "price": "₹31983",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=dinner",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Craig, Davis and Hahn Data6",
+        "price": "₹38792",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=throughout",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Reed-Santos Bank3",
+        "price": "₹31088",
+        "display": "6.7-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=they",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Stevens, Brown and Henderson Speech10",
+        "price": "₹30841",
+        "display": "6.7-inch OLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=fast",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Love-Moreno Significant5",
+        "price": "₹37389",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=special",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Richards, Williamson and Ryan Scientist3",
+        "price": "₹33270",
+        "display": "6.1-inch IPS LCD, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=another",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Anderson, Anderson and Keller Full9",
+        "price": "₹35865",
+        "display": "6.7-inch IPS LCD, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=painting",
+        "use_case": "Performance"
+      }
+    ],
+    "General Purpose": [
+      {
+        "title": "Chung, Allen and Miller Mouth9",
+        "price": "₹34073",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=job",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Howard Group Hope6",
+        "price": "₹30342",
+        "display": "6.5-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=stuff",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Mcdaniel, Carter and Sullivan Give5",
+        "price": "₹30837",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=figure",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Miller Ltd Effort3",
+        "price": "₹33117",
+        "display": "6.1-inch IPS LCD, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=consumer",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Sandoval and Sons Phone3",
+        "price": "₹34720",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=minute",
+        "use_case": "General Purpose"
+      }
+    ]
+  },
+  ">40000": {
+    "Flagship": [
+      {
+        "title": "Ruiz LLC Culture7",
+        "price": "₹61501",
+        "display": "6.5-inch OLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=unit",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Price, Wood and Mccarthy But3",
+        "price": "₹75232",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=point",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Molina Group Base8",
+        "price": "₹95413",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=cup",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Jackson-Herrera Step5",
+        "price": "₹79327",
+        "display": "6.1-inch AMOLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=really",
+        "use_case": "Flagship"
+      },
+      {
+        "title": "Schmidt, Mckay and Simpson Federal2",
+        "price": "₹78273",
+        "display": "6.7-inch AMOLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 695",
+        "image": "https://via.placeholder.com/150?text=think",
+        "use_case": "Flagship"
+      }
+    ],
+    "Gaming": [
+      {
+        "title": "Velazquez, Pearson and Payne Staff6",
+        "price": "₹49229",
+        "display": "6.5-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=enough",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Harrington-Rodriguez Particularly6",
+        "price": "₹68491",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=phone",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Simmons, Beltran and Waller Second9",
+        "price": "₹85330",
+        "display": "6.5-inch OLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=prove",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Woods-Santiago Learn5",
+        "price": "₹98735",
+        "display": "6.5-inch IPS LCD, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=future",
+        "use_case": "Gaming"
+      },
+      {
+        "title": "Clark and Sons Democratic5",
+        "price": "₹43134",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=firm",
+        "use_case": "Gaming"
+      }
+    ],
+    "Camera": [
+      {
+        "title": "Parker, Wong and Garcia Chance7",
+        "price": "₹71225",
+        "display": "6.7-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=hit",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Kennedy, Williams and Jones News1",
+        "price": "₹58591",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=process",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Fernandez PLC Her1",
+        "price": "₹66823",
+        "display": "6.5-inch AMOLED, 90Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=Mr",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Perkins, Houston and Wilcox Main8",
+        "price": "₹63399",
+        "display": "6.5-inch AMOLED, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "4GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=thousand",
+        "use_case": "Camera"
+      },
+      {
+        "title": "Smith-Anderson Produce6",
+        "price": "₹50412",
+        "display": "6.7-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "12MP"
+        },
+        "ram": "6GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=pretty",
+        "use_case": "Camera"
+      }
+    ],
+    "Clean OS": [
+      {
+        "title": "Harris, Mosley and Evans Foot2",
+        "price": "₹81474",
+        "display": "6.7-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=building",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Smith PLC Commercial10",
+        "price": "₹59653",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=employee",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Evans Group Draw9",
+        "price": "₹45818",
+        "display": "6.7-inch IPS LCD, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "128GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=throw",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Morrison-Wilson Mind2",
+        "price": "₹63527",
+        "display": "6.1-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "32MP"
+        },
+        "ram": "12GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=simple",
+        "use_case": "Clean OS"
+      },
+      {
+        "title": "Sanchez-Wu Three2",
+        "price": "₹65623",
+        "display": "6.1-inch OLED, 120Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "108MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "8GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=who",
+        "use_case": "Clean OS"
+      }
+    ],
+    "Performance": [
+      {
+        "title": "Bowman-Lopez Develop3",
+        "price": "₹49342",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "256GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=rule",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Leon, Peck and Mccann Whatever9",
+        "price": "₹50485",
+        "display": "6.7-inch OLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=lawyer",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Williams Group Near6",
+        "price": "₹98430",
+        "display": "6.7-inch AMOLED, 144Hz",
+        "battery": "6000mAh",
+        "camera": {
+          "rear": "50MP + 5MP",
+          "front": "16MP"
+        },
+        "ram": "4GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=item",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Holland PLC Probably9",
+        "price": "₹72138",
+        "display": "6.1-inch IPS LCD, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "128GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=local",
+        "use_case": "Performance"
+      },
+      {
+        "title": "Melton, Ray and Rios Among5",
+        "price": "₹59745",
+        "display": "6.5-inch AMOLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "32MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Exynos 1380",
+        "image": "https://via.placeholder.com/150?text=capital",
+        "use_case": "Performance"
+      }
+    ],
+    "General Purpose": [
+      {
+        "title": "Hicks, Aguirre and Young Raise4",
+        "price": "₹59357",
+        "display": "6.1-inch AMOLED, 120Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "8MP"
+        },
+        "ram": "6GB",
+        "storage": "64GB",
+        "processor": "Snapdragon 8 Gen 2",
+        "image": "https://via.placeholder.com/150?text=design",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Morales, Garcia and Hendrix Job5",
+        "price": "₹73749",
+        "display": "6.7-inch OLED, 90Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "108MP + 5MP",
+          "front": "8MP"
+        },
+        "ram": "8GB",
+        "storage": "64GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=from",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Morris-Howard Ability9",
+        "price": "₹42919",
+        "display": "6.7-inch AMOLED, 90Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "64MP + 5MP",
+          "front": "12MP"
+        },
+        "ram": "8GB",
+        "storage": "128GB",
+        "processor": "MediaTek Dimensity 9200",
+        "image": "https://via.placeholder.com/150?text=edge",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Rivers and Sons Soldier4",
+        "price": "₹72118",
+        "display": "6.7-inch OLED, 144Hz",
+        "battery": "5000mAh",
+        "camera": {
+          "rear": "50MP + 8MP",
+          "front": "12MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Snapdragon 7+ Gen 2",
+        "image": "https://via.placeholder.com/150?text=soldier",
+        "use_case": "General Purpose"
+      },
+      {
+        "title": "Smith Inc Subject4",
+        "price": "₹53878",
+        "display": "6.5-inch IPS LCD, 144Hz",
+        "battery": "4500mAh",
+        "camera": {
+          "rear": "64MP + 2MP",
+          "front": "16MP"
+        },
+        "ram": "12GB",
+        "storage": "256GB",
+        "processor": "Helio G99",
+        "image": "https://via.placeholder.com/150?text=all",
+        "use_case": "General Purpose"
+      }
+    ]
+  }
+}
