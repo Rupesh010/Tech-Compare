@@ -7,6 +7,7 @@ export function Comparison() {
     const [selectedPrice, setSelectedPrice] = useState('more than ₹90K')
     const [selectedSpec, setSelectedSpec] = useState('General Purpose')
 
+
     return (
         <>
             <div className='Comp'>
@@ -14,7 +15,7 @@ export function Comparison() {
                     <Filter selectedPrice={selectedPrice} setSelectedPrice={setSelectedPrice} selectedSpec={selectedSpec} setSelectedSpec={setSelectedSpec} />
                 </aside >
                 <div className='ProductContainer'>
-                    <ProductCard />
+                    <ProductCard selectedPrice={selectedPrice} selectedSpec={selectedSpec} />
                 </div>
             </div>
         </>

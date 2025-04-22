@@ -1,18 +1,78 @@
-import vivot2 from './assets/Images/vivot2.jpg';
+import mobileData from './assets/data/latest_80_mobile_phones_india_with_budget.json';
+import './articleCss.css'
+import RenderCard from './RenderCard';
 
 
-export function ProductCard() {
+
+export function ProductCard(props) {
+
+    const { selectedPrice, selectedSpec } = props
+    const prices = ['less than ₹20K', '₹50K - ₹75K', '₹75K - ₹90K', 'more than ₹90K']
+
+
+    const renderProductCard = (item, itemIndex) => {
+
+        const integerPrice = parseInt(item.price, 10);
+        console.log(integerPrice, selectedSpec);
+        // if (!item.use_case[selectedSpec]) return null;
+
+        if (selectedSpec === item.use_case) {
+
+            if (selectedPrice == prices[0] && integerPrice < 20000) {
+                console.log(item);
+                return <RenderCard item={item} />
+
+            }
+
+            if (selectedPrice == prices[1] && integerPrice >= 20000 && integerPrice < 50000) {
+                return <RenderCard item={item} />
+            }
+
+            if (selectedPrice == prices[2] && integerPrice >= 50000 && integerPrice < 75000) {
+                return <RenderCard item={item} />
+            }
+
+            if (selectedPrice == prices[3] && integerPrice >= 75000 && integerPrice <= 90000) {
+                return <RenderCard item={item} />
+            }
+
+            if (integerPrice > 90000) {
+                // console.log(item);
+                return <RenderCard item={item} />
+            }
+        }
+
+        return null;
+    };
+
+    mobileData.map((item, itemIndex) => {
+
+        console.log(selectedPrice, selectedSpec, item.use_case);
+        const integerPrice = parseInt(item.price, 10);
+        console.log(integerPrice);
+
+
+
+
+
+        return renderProductCard(item, itemIndex);
+    })
+
+
 
     return (
-        <div className="product-card">
-            <img src={vivot2} alt="Product Image" />
-            <div className='product-details'>
-                <h2>Vivo T2 5G</h2>
-                <p>128GB RAM | Gsm Unlocked Phone | Qualcomm SM6375 | Snapdragon 695 5G | 64MP</p>
-                <p className="price">
-                    <span>₹15999</span>
-                </p>
-            </div>
+        <div>
+            {
+                mobileData?.map((item, itemIndex) => (
+                    <div>
+                        {renderProductCard(item, itemIndex)}
+                    </div>
+                ))
+            }
         </div>
     )
-}
+
+
+
+
+}   
