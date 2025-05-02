@@ -1,8 +1,6 @@
-import { ProductCard } from "./ProductCard";
-
-
 export default function RenderCard({ item }) {
 
+    console.log(item);
     return (
         <>
 

@@ -4,7 +4,7 @@ import { useState } from "react"
 
 export function Comparison() {
 
-    const [selectedPrice, setSelectedPrice] = useState('more than ₹90K')
+    const [selectedPrice, setSelectedPrice] = useState('less than ₹20,000')
     const [selectedSpec, setSelectedSpec] = useState('General Purpose')
 
 

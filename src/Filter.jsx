@@ -1,7 +1,7 @@
 export function Filter(props) {
     const { selectedPrice, setSelectedPrice, selectedSpec, setSelectedSpec } = props
 
-    const prices = ['less than ₹20K', '₹50K - ₹75K', '₹75K - ₹90K', 'more than ₹90K']
+    const prices = ['less than ₹20,000', '₹20,000 - ₹50,000', '₹50,000 - ₹75,000', '₹75,000 - ₹90,000', 'more than ₹90,000']
     const specs = ['General Purpose', 'Camera', 'Performance', 'Gaming', 'Clean OS', 'Flagship']
 
 

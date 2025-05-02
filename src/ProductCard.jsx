@@ -7,65 +7,95 @@ import RenderCard from './RenderCard';
 export function ProductCard(props) {
 
     const { selectedPrice, selectedSpec } = props
-    const prices = ['less than ₹20K', '₹50K - ₹75K', '₹75K - ₹90K', 'more than ₹90K']
+    const prices = ['less than ₹20,000', '₹20,000 - ₹50,000', '₹50,000 - ₹75,000', '₹75,000 - ₹90,000', 'more than ₹90,000']
 
 
-    const renderProductCard = (item, itemIndex) => {
+    // const renderProductCard = (item, itemIndex) => {
 
-        const integerPrice = parseInt(item.price, 10);
-        console.log(integerPrice, selectedSpec);
-        // if (!item.use_case[selectedSpec]) return null;
+    //     const integerPrice = parseInt(item.price, 10);
 
-        if (selectedSpec === item.use_case) {
+    //     // if (!item.use_case[selectedSpec]) return null;
 
-            if (selectedPrice == prices[0] && integerPrice < 20000) {
-                console.log(item);
-                return <RenderCard item={item} />
+    //     if (selectedSpec === item.use_case) {
+    //         console.log(integerPrice, selectedSpec);
 
-            }
+    //         if (selectedPrice == prices[0] && integerPrice < 20000) {
+    //             // console.log(item);
+    //             return <RenderCard item={item} />
 
-            if (selectedPrice == prices[1] && integerPrice >= 20000 && integerPrice < 50000) {
-                return <RenderCard item={item} />
-            }
+    //         }
 
-            if (selectedPrice == prices[2] && integerPrice >= 50000 && integerPrice < 75000) {
-                return <RenderCard item={item} />
-            }
+    //         if (selectedPrice == prices[1] && integerPrice >= 20000 && integerPrice < 50000) {
+    //             return <RenderCard item={item} />
+    //         }
 
-            if (selectedPrice == prices[3] && integerPrice >= 75000 && integerPrice <= 90000) {
-                return <RenderCard item={item} />
-            }
+    //         if (selectedPrice == prices[2] && integerPrice >= 50000 && integerPrice < 75000) {
+    //             return <RenderCard item={item} />
+    //         }
 
-            if (integerPrice > 90000) {
-                // console.log(item);
-                return <RenderCard item={item} />
-            }
+    //         if (selectedPrice == prices[3] && integerPrice >= 75000 && integerPrice < 90000) {
+    //             return <RenderCard item={item} />
+    //         }
+
+    //         if (integerPrice > 90000) {
+    //             // console.log(item);
+    //             return <RenderCard item={item} />
+    //         }
+    //     }
+
+    //     return null;
+    // };
+
+    // mobileData.map((item, itemIndex) => {
+
+    //     // console.log(selectedPrice, selectedSpec, item.use_case);
+    //     const integerPrice = parseInt(item.price, 10);
+    //     // console.log(integerPrice);
+
+
+
+
+
+    //     return renderProductCard(item, itemIndex);
+    // })
+
+    const sortPrice = (item, itemIndex) => {
+
+
+        if (selectedPrice == prices[0] && item.price < 20000) {
+            return sortSpec(item, itemIndex)
         }
 
-        return null;
-    };
+        if (selectedPrice == prices[1] && item.price >= 20000 && item.price < 50000) {
+            return sortSpec(item, itemIndex)
+        }
 
-    mobileData.map((item, itemIndex) => {
+        if (selectedPrice == prices[2] && item.price >= 50000 && item.price < 75000) {
+            return sortSpec(item, itemIndex)
+        }
 
-        console.log(selectedPrice, selectedSpec, item.use_case);
-        const integerPrice = parseInt(item.price, 10);
-        console.log(integerPrice);
+        if (selectedPrice == prices[3] && item.price >= 75000 && item.price < 90000) {
+            return sortSpec(item, itemIndex)
+        }
 
+        if (selectedPrice == prices[4] && item.price > 90000) {
+            return sortSpec(item, itemIndex)
+        }
+    }
 
-
-
-
-        return renderProductCard(item, itemIndex);
-    })
-
+    const sortSpec = (item, itemIndex) => {
+        if (selectedSpec === item.use_case) {
+            return <RenderCard item={item} />
+        }
+    }
 
 
     return (
         <div>
             {
                 mobileData?.map((item, itemIndex) => (
-                    <div>
-                        {renderProductCard(item, itemIndex)}
+                    <div key={itemIndex} className="product-container">
+                        {sortPrice(item, itemIndex)}
                     </div>
                 ))
             }
